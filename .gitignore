@@ -59,4 +59,4 @@ typings/
 dist
 
 #config files
-src/config.json
+src/config
