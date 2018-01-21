@@ -1,0 +1,20 @@
+{
+  "development": {
+    "JWT_SECRET": "junior"
+  },
+
+  "creds": {
+    "email": "tomakajunior@gmail.com",
+    "password": "juniordev"
+  },
+
+  "mongo": {
+    "connectionString": "mongodb://juni_admin:admin_juni@ds157964.mlab.com:57964/junior"
+  },
+  "algolia": {
+    "applicationID": "E0WYNROWLP",
+    "apiKey": "1f7672b14a8a8026cccc0d54857ad4cf",
+    "index": "dev_languages"
+  }
+
+}
